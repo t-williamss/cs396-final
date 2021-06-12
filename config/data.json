@@ -1,0 +1,76 @@
+{
+    "Module": [
+        {
+            "_id" : "6091ca4ef214628d6b9c24c2",
+            "title": "Facial Recognition",
+            "description": "Facial recognition is the method of determining the identity of a person using their face. With cutting edge technologies, facial recognition can now be done by computers. In some cases, computers are now better at identifying people by their face than humans are. But how do these systems work? Who uses them and why?",
+            "tags": [
+                "Artificial Intelligence",
+                "Data",
+                "Law"
+            ],
+            "users": "Youth"
+        },
+        {
+            "_id": "6091ca4ef214628d6b9c24c3",
+            "title": "Data",
+            "description": "Data is a word we've been hearing a lot of these days. Databases too. But what really is data, and where does it come from? How is it collected in databases and used to label and target people? And how does all this affect you (or has it already?) This module discusses all that, and more, while giving you the chance to think about how you personally fit into the equation.",
+            "tags": [
+                "Data"
+            ],
+            "users": "Youth"
+        }
+    ],
+    "Child": [
+        {
+            "module_id": "6091ca4ef214628d6b9c24c2",
+            "ordering": 1, 
+            "step_title": "Facial Recognition",
+            "text": "Facial recognition is the method of determining the identity of a person using their face. This technology can be used to unlock your phone, automatically tag you in photos, or verify your identity at airports. These systems can introduce new convenience in our lives, but as with much of the convenience technology brings, it comes with a cost. As these technologies become more and more advanced, they put personal privacy at risk. The first step in understanding the risk of facial recognition systems is understanding what they do and how they work. In this learning module, you will learn:",
+            "image_url": "https://pbs.twimg.com/media/D_s5kdTXsAE97Hm?format=jpg&name=medium"
+        },
+        {
+            "module_id": "6091ca4ef214628d6b9c24c2",
+            "ordering": 2, 
+            "step_title": "How It Works",
+            "text": "Facial recognition systems use algorithms to identify a person using their face. But what is an algorithm, really? An algorithm is simply a step by step process a computer follows. Most facial recognition algorithms happen in 4 steps:",
+            "image_url": "https://pbs.twimg.com/media/D_s5kdTXsAE97Hm?format=jpg&name=medium"
+        },
+        {
+            "module_id": "6091ca4ef214628d6b9c24c2",
+            "ordering": 3, 
+            "step_title": "Face Detection",
+            "text": "Face detection is the name of the process a computer uses to find faces in an image. You may have noticed that iPhones will draw a yellow box around people’s faces when it is about to take a picture. This is an example of face detection in action. The camera uses face detection technology to find faces in a photo so that the faces are always in focus.",
+            "image_url": "https://pbs.twimg.com/media/D_s5kdTXsAE97Hm?format=jpg&name=medium"
+        }, 
+        {
+            "module_id": "6091ca4ef214628d6b9c24c3",
+            "ordering": 1, 
+            "step_title": "What is Data?",
+            "text": "Face detection is the name of the process a computer uses to find faces in an image. You may have noticed that iPhones will draw a yellow box around people’s faces when it is about to take a picture. This is an example of face detection in action. The camera uses face detection technology to find faces in a photo so that the faces are always in focus.",
+            "image_url": "https://pbs.twimg.com/media/D_s5kdTXsAE97Hm?format=jpg&name=medium"
+        },
+        {
+            "module_id": "6091ca4ef214628d6b9c24c3",
+            "ordering": 2, 
+            "step_title": "How is Data Used",
+            "text": "Face detection is the name of the process a computer uses to find faces in an image. You may have noticed that iPhones will draw a yellow box around people’s faces when it is about to take a picture. This is an example of face detection in action. The camera uses face detection technology to find faces in a photo so that the faces are always in focus.",
+            "image_url": "https://pbs.twimg.com/media/D_s5kdTXsAE97Hm?format=jpg&name=medium"
+        }, 
+        {
+            "module_id": "6091ca4ef214628d6b9c24c3",
+            "ordering": 3, 
+            "step_title": "Data Economy",
+            "text": "Face detection is the name of the process a computer uses to find faces in an image. You may have noticed that iPhones will draw a yellow box around people’s faces when it is about to take a picture. This is an example of face detection in action. The camera uses face detection technology to find faces in a photo so that the faces are always in focus.",
+            "image_url": "https://pbs.twimg.com/media/D_s5kdTXsAE97Hm?format=jpg&name=medium"
+        }
+    ],
+    "favoriteDoctors": [
+        { "doctor" : "6075029f746e3f38a5f0e94a" },
+        { "doctor" : "6075029f746e3f38a5f0e94f" }
+    ],
+    "favoriteCompanions": [
+        { "companion" : "607502a0746e3f38a5f0e95c" },
+        { "companion" : "607502a0746e3f38a5f0e966" }
+    ]
+}
